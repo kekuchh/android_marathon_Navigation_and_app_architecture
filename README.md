@@ -1,5 +1,7 @@
 # android_marathon_Navigation_and_app_architecture
 
+![image](https://github.com/kekuchh/android_marathon_Navigation_and_app_architecture/assets/98802601/0cad7d0d-ca18-4bec-ad0d-a0b2ae7e87ce)
+
 ![image](https://github.com/kekuchh/android_marathon_Navigation_and_app_architecture/assets/98802601/51c5701a-7e63-4e13-96b3-ee6854b828b1)
 
 ![image](https://github.com/kekuchh/android_marathon_Navigation_and_app_architecture/assets/98802601/318553c6-7fe9-4cd1-a33d-c411f2bdddda)
@@ -12,3 +14,8 @@
 
 ![image](https://github.com/kekuchh/android_marathon_Navigation_and_app_architecture/assets/98802601/30b13133-a91a-4a84-965f-8326e76ec558)
 
+![image](https://github.com/kekuchh/android_marathon_Navigation_and_app_architecture/assets/98802601/589c211b-729d-4d2d-95ad-2dd5300415ec)
+
+![image](https://github.com/kekuchh/android_marathon_Navigation_and_app_architecture/assets/98802601/45ec69f9-6573-44ea-a5bf-4d4dcf5afc5c)
+
+![image](https://github.com/kekuchh/android_marathon_Navigation_and_app_architecture/assets/98802601/3a50e3aa-0875-418a-877a-6210dcee3b3f)
