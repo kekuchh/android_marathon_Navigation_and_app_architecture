@@ -10,3 +10,5 @@
 
 ![image](https://github.com/kekuchh/android_marathon_Navigation_and_app_architecture/assets/98802601/e7da52a2-6003-44a4-ac03-bf7f48e6ba2f)
 
+![image](https://github.com/kekuchh/android_marathon_Navigation_and_app_architecture/assets/98802601/30b13133-a91a-4a84-965f-8326e76ec558)
+
