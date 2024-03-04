@@ -4,4 +4,5 @@
 
 ![image](https://github.com/kekuchh/android_marathon_Navigation_and_app_architecture/assets/98802601/318553c6-7fe9-4cd1-a33d-c411f2bdddda)
 
+![image](https://github.com/kekuchh/android_marathon_Navigation_and_app_architecture/assets/98802601/55cab41f-9888-44ea-bf23-9997313c1524)
 
