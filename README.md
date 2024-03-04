@@ -8,4 +8,5 @@
 
 ![image](https://github.com/kekuchh/android_marathon_Navigation_and_app_architecture/assets/98802601/59b78177-23b9-4e04-be58-1ee6e69b4f96)
 
+![image](https://github.com/kekuchh/android_marathon_Navigation_and_app_architecture/assets/98802601/e7da52a2-6003-44a4-ac03-bf7f48e6ba2f)
 
