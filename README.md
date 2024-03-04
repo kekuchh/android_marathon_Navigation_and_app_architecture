@@ -6,3 +6,6 @@
 
 ![image](https://github.com/kekuchh/android_marathon_Navigation_and_app_architecture/assets/98802601/55cab41f-9888-44ea-bf23-9997313c1524)
 
+![image](https://github.com/kekuchh/android_marathon_Navigation_and_app_architecture/assets/98802601/59b78177-23b9-4e04-be58-1ee6e69b4f96)
+
+
